@@ -1,0 +1,27 @@
+p{color: red}
+
+
+/*who{What:how}*/
+
+h1{color:red}
+
+
+
+ol{color:blue}
+
+ul{color:aqua}
+
+
+.list{
+    color: red;
+    margin: 10px;
+    border-style: solid;
+    border-color: green;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#header{
+color:aqua;
+text-align: center;
+}
